@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jianjunhua-ds
+- 👋 Hi, I’m Jianjun Hua.
 - 👀 I’m interested in Data Science, Machine Learning/Deep Learning/AI.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Deep Learning Projects
